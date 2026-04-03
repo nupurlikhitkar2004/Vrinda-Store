@@ -1,31 +1,42 @@
-Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
-Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
-Questions (KPIs)
-Compare the sales and orders using single chart.
+## Project Objective
 
-Which month got the highest sales and orders?
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda
+store can understand their customers and grow more sales in 2023 & 2024.
 
-Who purchased more - Men or Women?
+## Dataset used
 
-What are different order status in 2022?
+- <a href="">Vrinda Store Data</a>
 
-List top 10 states contributingto the sales?
+## Questions (KPIs)
 
-Relation between age and gender based on number of orders.
+- Compare the sales and orders using single chart.
 
-Which Channel is contributing maximum to the sales?
+- Which month got the highest sales and orders?
 
-Highest selling category?
+- Who purchased more - Men or Women?
 
-Percentage of Total Orders delivered
+- What are different order status in 2022?
 
-Process
-Verify data for any missing values and anomalies, and sort out the same.
+- List top 10 states contributingto the sales?
 
-Made sure data is consistent and clean with respect to data type, data format and values used.
+- Relation between age and gender based on number of orders.
 
-Created pivot tables according to the questions asked.
+- Which Channel is contributing maximum to the sales?
 
-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Highest selling category?
+
+- Percentage of Total Orders delivered
+
+## Process
+
+- Verify data for any missing values and anomalies, and sort out the same.
+
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+
+- Created pivot tables according to the questions asked.
+
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+
