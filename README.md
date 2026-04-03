@@ -38,5 +38,8 @@ store can understand their customers and grow more sales in 2023 & 2024.
 - Created pivot tables according to the questions asked.
 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+
+<img width="1280" height="470" alt="image" src="https://github.com/user-attachments/assets/d1361ee3-dd2d-4e64-8118-1172250917e5" />
 
 
